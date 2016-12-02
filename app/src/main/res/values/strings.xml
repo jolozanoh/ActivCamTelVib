@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Actividad_05</string>
+    <string name="action_settings">Settings</string>
+    <string name="foto">FOTOGRAFIA</string>
+    <string name="vibrar">VIBRAR</string>
+    <string name="llamada">LLAMADA</string>
+
+</resources>
